@@ -1,3 +1,5 @@
+import React from 'react';
+
 import PropTypes from 'prop-types';
 import { FriendListItem } from '../FriendsListItem/FriendListItem';
 import { Box } from './FriendList.styled';
