@@ -4,7 +4,7 @@ export const Container = styled.section`
   padding: 10px;
   width: 400px;
   margin: 25px auto;
-  background-color: grey;
+  background-color: lightblue;
   font-family: 'Roboto Slab', sans-serif;
   border-radius: 20px;
 `;
